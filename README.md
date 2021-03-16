@@ -1,4 +1,6 @@
-![React Logo](https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png)
+<p align="center">
+  <a href="https://reactjs.org" target="blank"><img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a7/React-icon.svg/320px-React-icon.svg.png" width="320" alt="React Logo" /></a>
+</p>
 
 # Koji-Front
 
