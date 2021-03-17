@@ -15,4 +15,5 @@ Installs dependencies.
 ### 2. Run `npm start`
 
 Runs the app in the development mode.<br />
-Your default browser should open the App Homepage automatically. If not, go to [http://localhost:3000/posts](http://localhost:3000/posts).
+
+### 3. Your default browser should open the App Homepage automatically. If not, go to [http://localhost:3000/posts](http://localhost:3000/posts).
